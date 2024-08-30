@@ -1,2 +1,2 @@
-# RIA (Representação Intermédia Académica)
-an academic intermediate representation programming language for learning about compilers
+# Ria (Representação Intermédia Académica)
+Ria is a programming language for learning about compilers
