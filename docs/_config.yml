@@ -4,3 +4,12 @@ title: Ria Language
 remote_theme: carlosperate/jekyll-theme-rtd
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+site_author: Eurico Pedrosa
+repo_url: "https://github.com/eupedrosa/ria-lang"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
